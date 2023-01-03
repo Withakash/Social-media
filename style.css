@@ -68,7 +68,7 @@ ul li a .fa{
     height: 100%;
     width: 100%;
     /* background: linear-gradient(rgb(190 202 246 / 41%), 5%, rgb(0 150 255), 50%, rgb(130 196 242)); */
-    background: linear-gradient(to right, #833ab4, #fd1d1d, #fcb045);
+    background: linear-gradient( #833ab4, #fd1d1d, #fcb045);
     position: absolute;
   }
   .wrapper h1 {
